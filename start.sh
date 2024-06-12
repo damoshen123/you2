@@ -7,7 +7,7 @@ npm install
 PASSWORD=
 
 # 设置代理
-export https_proxy=http://127.0.0.1:7890
+export https_proxy=
 
 # 设置端口
 export PORT=8080
